@@ -2,7 +2,7 @@
 2. Ensure RootCA.key and RootCA.crt are in the project root and readable.
 3. Install dependencies:
 ```bash
-     npm install express.
+npm install express.
 ```
 4. Run the server:
 ```bash
